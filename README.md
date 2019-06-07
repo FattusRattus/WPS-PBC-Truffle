@@ -1,5 +1,5 @@
 # WPS-PBX-Truffle
-Wifi WPS PBX PSK Capture
+Wifi WPS PBC PSK Capture
 
 Description
 ----
