@@ -8,6 +8,7 @@ This script is based on ideas from several scripts, notably wpsspy.py from https
 To run it: ./wps_pbc-truffle.py -i wlan1
 
 It will create several files when running:
+
 wps-pbc.conf - temp wpa_supplicant config file that will capture the WPA PSK
 
 wpa-pot.txt - pot file for all captured WPA PSKs
