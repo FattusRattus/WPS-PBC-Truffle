@@ -1,4 +1,4 @@
-# WPS-PBX-Truffle
+# WPS-PBC-Truffle
 Wifi WPS PBC PSK Capture
 
 Description
