@@ -22,4 +22,3 @@ Requirements
 ----
 It requires the Scapy Python module and Aircrack suite. It runs best from Kali, but on a Raspberry Pi 3 it does not like the internal Wifi - use an external one.
 
-<meta name="google-site-verification" content="TUiCdM8PsjJdKlUAM5lR6BV8AQE3_WN8xiITDcJmXzw" />
